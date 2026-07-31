@@ -5,7 +5,8 @@ The dashboard provides insights into employee distribution, salary analysis, hir
 
 ---
 ## Dashboard Preview
-![Dashboard](Dashboard%20Screenshot/HR_Dashboard.png)
+
+![HR Dashboard](images/HR_Dashboard.jpg)
 
 ---
 ## Key KPIs
